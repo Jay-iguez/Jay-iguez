@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jayden Rodriguez</h1>
-<h3 align="center">An always growing full-stack web developer from USA</h3>
+<h3 align="center">An Always Growing Full-Stack Web Developer From the USA</h3>
 
 - 🌱 I’m currently learning **JavaScript, HTML, CSS, React, Vscode, NodeJS etc.**
 
